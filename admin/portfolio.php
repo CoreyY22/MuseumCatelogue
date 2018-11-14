@@ -52,7 +52,7 @@
   <ul>
   <li><strong><a href="logout.php">Logout</a></strong></li>
   <br>
-   <li><strong><a href="reservation.php">Add Artifact</a></strong></li>
+   <li><strong><a href="addartifact.php">Add Artifact</a></strong></li>
    <br>
    <li><strong><a href="history.php">Artifact History</a></strong></li>
    </ul>
