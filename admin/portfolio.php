@@ -38,7 +38,7 @@
   ?>
    
   
-   <h2>Welcome <strong> <?php echo $_SESSION['username']; ?></strong> to the National Museum database. </h2>
+   <h2>Welcome <strong> <?php echo $_SESSION['name']; ?></strong> to the National Museum database. </h2>
     
 
 
