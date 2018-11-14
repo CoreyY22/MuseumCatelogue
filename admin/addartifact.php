@@ -42,7 +42,7 @@
 	<script src="js/bootstrap.min.js"></script>
            <br /><br />  
            <div class="container" style="width:500px;">  
-                <h3 align="center">Insert and Display Images From Mysql Database in PHP</h3>  
+                <h3 align="center">Insert Artifact Information</h3>  
                 <br />  
                 <form method="post" enctype="multipart/form-data">  
                      <input type="file" name="image" id="image" />  
