@@ -1,4 +1,4 @@
-<?php include 'admin-main.php';?>
+<?php include 'index6.php';?>
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -8,10 +8,10 @@
 </head>
 <body>
 <section class="HomeKisii">
-<img src="img/gov.jpg" alt="Mountain View" style="width:954px;height:470px">
+//<img src="img/gov.jpg" alt="Mountain View" style="width:954px;height:470px">
 <section class="success">
 <br/>
- <p>Access denied! <br/><br/><a href="../index.php">You can Log in Here</a></p>
+ <p><br/><h2>Access denied!</h2><br/><a href="../index.php">You can Log in Here</a></p>
 </section>
 </section>
 <section class="kisii-bottom">

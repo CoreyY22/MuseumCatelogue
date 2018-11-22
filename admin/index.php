@@ -61,13 +61,14 @@ if( isset( $_SESSION['email'] ) )
     <tr>
       <td width="170" height="40"  align="center"><font size=5><b>User Name</b></td>
       <td width="213">
-         <input type="text" name="username" style="background" />
+	  <input type="text" id="FullName" name="email"placeholder="Your Email" maxlength="31" required style="background" />
+        
       </font></td>
     </tr>
     <tr>
       <td height="38" align="center"><font size=5><b>Password</b></td>
       <td>
-        <input type="password" name="password" maxlength="8">
+        <input type="password" id="FullName" name="password" placeholder="Your Password" maxlength="10" required />
         </font></td>
     </tr>
     <br />

@@ -17,11 +17,10 @@
 	        <li><a href=accommodation.php>View Artifact</a></li>
 					<li><a href=tariff.php>TBD</a></li>
 					<li><a href=aboutus.php>About Us</a></li>
-					<li><a href=../login.php>Guest Login</a></li>
-					
+
 	      </ul>
 				<ul class="nav navbar-nav navbar-right">
-        <li><a href="index.php">Login</a></li>
+        <li><a href="process-log-out.php">Logout</a></li>
 	      </ul>
 				
 	    </div>

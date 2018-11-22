@@ -50,7 +50,7 @@
 	<br>
   <footer>
   <ul>
-  <li><strong><a href="logout.php">Logout</a></strong></li>
+  <li><strong><a href="process-log-out.php">Logout</a></strong></li>
   <br>
    <li><strong><a href="addartifact.php">Add Artifact</a></strong></li>
    <br>
